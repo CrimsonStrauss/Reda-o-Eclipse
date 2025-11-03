@@ -22,11 +22,6 @@
 3. **Humanização**: Ajusta para parecer escrito por um aluno real
 4. **Salvamento**: Envia como **rascunho** para você revisar
 
-### 🔄 Fluxo Técnico
-```
-📋 Login → 🔍 Busca Redações → 🤖 IA Gera Texto → ✨ Humaniza → 💾 Salva como Rascunho
-```
-
 ---
 
 ## 🌐 Como Usar
